@@ -118,6 +118,9 @@ Riddle in Progress
 
 <img width="950" alt="image" src="https://github.com/user-attachments/assets/ae32184a-0683-452d-8409-d028938a7814">
 
+<img width="935" alt="image" src="https://github.com/user-attachments/assets/f9c3df17-98bb-48e4-80cb-1723315de0e5">
+
+
 Losing Screen
 
 <img width="919" alt="image" src="https://github.com/user-attachments/assets/77536c81-91e0-469c-a998-5d82af54a15c">
@@ -125,6 +128,10 @@ Losing Screen
 Winning Screen
 
 <img width="935" alt="image" src="https://github.com/user-attachments/assets/a7219b39-788e-413c-9062-dd533d81c278">
+
+
+
+
 
 
 
