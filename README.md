@@ -110,15 +110,21 @@ Buttons allow players to either restart the game or exit at any time.
 
 Screenshots:-
 
-Start Screen
+Start Screen:
+
 
 <img width="959" alt="image" src="https://github.com/user-attachments/assets/c6089719-5ee0-48af-a89d-b2d4dbd87f0a">
 
-Riddle in Progress
+
+Riddle in Progress:
+
 
 <img width="950" alt="image" src="https://github.com/user-attachments/assets/ae32184a-0683-452d-8409-d028938a7814">
 
-<img width="935" alt="image" src="https://github.com/user-attachments/assets/f9c3df17-98bb-48e4-80cb-1723315de0e5">
+
+![Screenshot 2024-11-22 222224](https://github.com/user-attachments/assets/3d3dcec6-2ff7-4cc0-8274-f417b7c3ff3d)
+
+
 
 
 Losing Screen
