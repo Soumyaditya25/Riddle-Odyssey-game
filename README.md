@@ -1,9 +1,11 @@
 🔗Riddle Odyssey🧩
+
 Riddle Odyssey is an interactive riddle-solving game built using HTML, CSS, and JavaScript. 
 The game challenges players to solve riddles within a decreasing time limit across levels, with each level getting progressively harder.
 It's a fun way to test your logic, quick thinking, and problem-solving skills.
 
 📌Project Overview:-
+
 Project Name: Riddle Odyssey
 Technologies Used: HTML, CSS, JavaScript
 Key Features:
