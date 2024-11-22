@@ -111,14 +111,22 @@ Buttons allow players to either restart the game or exit at any time.
 Screenshots:-
 
 Start Screen
-<img width="959" alt="image" src="https://github.com/user-attachments/assets/c6089719-5ee0-48af-a89d-b2d4dbd87f0a">
 
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/c6089719-5ee0-48af-a89d-b2d4dbd87f0a">
 
 Riddle in Progress
 
-Winning Screen
+<img width="950" alt="image" src="https://github.com/user-attachments/assets/ae32184a-0683-452d-8409-d028938a7814">
 
 Losing Screen
+
+<img width="919" alt="image" src="https://github.com/user-attachments/assets/77536c81-91e0-469c-a998-5d82af54a15c">
+
+Winning Screen
+
+<img width="935" alt="image" src="https://github.com/user-attachments/assets/a7219b39-788e-413c-9062-dd533d81c278">
+
+
 
 Future Improvements:-
 
