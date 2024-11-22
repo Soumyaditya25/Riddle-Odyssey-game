@@ -14,14 +14,14 @@ Progress bar to track the level.
 Score system with hints that deduct points.
 Responsive design for seamless play on any device.
 
-How the Game Works:-
+🎮How the Game Works:-
 
 Levels and Riddles:
 The game has levels.
 Each level presents a riddle that the player must solve before the timer runs out.
 Time decreases by 5 seconds with each level, starting at 60 seconds.
 
-Hints:
+💡Hints:
 
 Players can use a hint if they get stuck.
 Using a hint deducts points from the player's score.
@@ -40,7 +40,7 @@ Restart and Exit Options:
 
 Players can restart the game or exit after winning or losing.
 
-How to Play:-
+🕹️ How to Play:-
 
 Start the game by clicking the Start Game button.
 Read the riddle and type your answer in the input field.
@@ -108,9 +108,10 @@ Restart and Exit Options:
 
 Buttons allow players to either restart the game or exit at any time.
 
-Screenshots
+Screenshots:-
 
 Start Screen
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/c6089719-5ee0-48af-a89d-b2d4dbd87f0a">
 
 
 Riddle in Progress
