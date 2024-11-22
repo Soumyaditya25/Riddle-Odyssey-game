@@ -110,31 +110,40 @@ Buttons allow players to either restart the game or exit at any time.
 
 Screenshots:-
 
-Start Screen:
+Start Screen:-
 
 
-<img width="959" alt="image" src="https://github.com/user-attachments/assets/c6089719-5ee0-48af-a89d-b2d4dbd87f0a">
+![Screenshot 2024-11-22 222834](https://github.com/user-attachments/assets/1ce09f5d-7b1f-4ae9-b03f-4757ab2ddc4d)
 
 
-Riddle in Progress:
+Riddle in Progress:-
 
 
-<img width="950" alt="image" src="https://github.com/user-attachments/assets/ae32184a-0683-452d-8409-d028938a7814">
 
-
-![Screenshot 2024-11-22 222224](https://github.com/user-attachments/assets/3d3dcec6-2ff7-4cc0-8274-f417b7c3ff3d)
+![Screenshot 2024-11-22 223726](https://github.com/user-attachments/assets/5b365614-4c4c-4aa7-9f74-3eba54c19686)
 
 
 
 
-Losing Screen
+![Screenshot 2024-11-22 223035](https://github.com/user-attachments/assets/470d119c-0a4f-4e7d-ba11-c04a91f4214e)
 
-<img width="919" alt="image" src="https://github.com/user-attachments/assets/77536c81-91e0-469c-a998-5d82af54a15c">
 
-Winning Screen
 
-<img width="935" alt="image" src="https://github.com/user-attachments/assets/a7219b39-788e-413c-9062-dd533d81c278">
 
+Losing Screen:-
+
+
+
+![Screenshot 2024-11-22 222857](https://github.com/user-attachments/assets/bc97c44a-0be3-4041-a400-c21c1f0cbfca)
+
+
+
+
+Winning Screen:-
+
+
+
+![Screenshot 2024-11-22 223341](https://github.com/user-attachments/assets/1d3268fb-e84e-4022-8270-bea872715979)
 
 
 
